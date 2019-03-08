@@ -26,3 +26,6 @@ sudo srconf localsid add fc00:5::bb end.ad4 ip 192.168.1.2 veth0 veth1
 
 これでサービスチェインをして通信を確認できます。
 
+## toplo
+
+![image](https://github.com/takehaya/SRv6_SFC_Example/blob/master/SRT_toplo.001.png)
